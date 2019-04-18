@@ -16,7 +16,7 @@
 <i>8-Reverse IP</i></br>
 <i>9-Cloudflare Bypasser</i></br></br>
 
-## :point_down: Learning Video From Aparat: :point_down:
+## :point_down: Learning Video From Youtube: :point_down:
 <a href="https://www.youtube.com/watch?v=8jT-JMWiQyA">Youtube.com/watch?v=8jT-JMWiQyA</a></br></br>
 
 ## :point_down: Learning Video From Aparat: :point_down:
